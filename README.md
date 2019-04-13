@@ -45,6 +45,7 @@ Pour finir, nous avons réalisé un footer reprenant les diverses informations n
 - CSS
 - SCSS
 - Bootstrap
+- Trello
 
 ## Visualisation du rendu
 
