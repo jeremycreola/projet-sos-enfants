@@ -16,6 +16,10 @@ Ce projet nous a été présenté comme un challenge. Nous avions un temps impar
 
 Nous devions partir du site de base [SOSEnfants.com](http://www.sosenfants.com/) et, avec ce que nous avions appris à l'époque (HTML, CSS, SCSS, Bootstrap), créer une one-page qui selon nous, serait mieux que ce qui était proposé sur le site d'origine.
 
+## A savoir
+
+Ce projet a été réalisé après 3 semaines de formation. Il comporte donc des erreurs de code, notamment au niveau de la manière dont notre code est écrit. J'ai cependant choisi de laisser le projet tel quel. Tout d'abord pour ne pas dénaturer ce qui a été fait à la base par un groupe, je ne veux pas modifier quelques erreurs dans les parties de mes collaborateurs et m'attribuer le mérite d'un travail bien fait. Enfin je trouve qu'il est intéressant de voir la différence entre ce qui était fait après 3 semaines dans le monde du codage et ce que je fais aujourd'hui.
+
 ## Travail effectué
 
 Nous sommes partis sur des couleurs plus basiques et moins flashy que sur le site original. Tout d'abord une navbar reprenant les différentes sections du site (non accesibles car nous devions rester sur un modèle one-page). 
