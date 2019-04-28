@@ -6,15 +6,15 @@ Ce projet a été réalisé dans le cadre de notre formation chez [BeCode](https
 
 L'équipe était composée de :
 
-- [Ruben Pereira](https://github.com/RubenPereiraC){:target="_blank" };
-- [Anne-Cécile Riquet](https://github.com/AnneCecileRiquet){:target="_blank" };
+- [Ruben Pereira](https://github.com/RubenPereiraC);
+- [Anne-Cécile Riquet](https://github.com/AnneCecileRiquet);
 - Et moi même.
 
 ## But du projet
 
 Ce projet nous a été présenté comme un challenge. Nous avions un temps imparti afin de rendre notre travail.
 
-Nous devions partir du site de base [SOSEnfants.com](http://www.sosenfants.com/){:target="_blank" } et, avec ce que nous avions appris à l'époque (HTML, CSS, SCSS, Bootstrap), créer une one-page qui selon nous, serait mieux que ce qui était proposé sur le site d'origine.
+Nous devions partir du site de base [SOSEnfants.com](http://www.sosenfants.com/) et, avec ce que nous avions appris à l'époque (HTML, CSS, SCSS, Bootstrap), créer une one-page qui selon nous, serait mieux que ce qui était proposé sur le site d'origine.
 
 ## A savoir
 
@@ -49,4 +49,4 @@ Pour finir, nous avons réalisé un footer reprenant les diverses informations n
 
 ## Visualisation du rendu
 
-Vous pouvez voir le résultat final ici : https://jeremycreola.github.io/projet-sos-enfants/ {:target="_blank" }
+Vous pouvez voir le résultat final ici : https://jeremycreola.github.io/projet-sos-enfants/ 
