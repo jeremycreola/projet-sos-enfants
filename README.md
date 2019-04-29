@@ -1,8 +1,8 @@
-﻿# Projet sosenfants.com
+# Projet sosenfants.com
 
 ## L'équipe 
 
-Ce projet a été réalisé dans le cadre de notre formation chez [BeCode](https://www.becode.org/index_fr.html){:target="_blank" } à Charleroi.
+Ce projet a été réalisé dans le cadre de notre formation chez [BeCode](https://www.becode.org/index_fr.html) à Charleroi.
 
 L'équipe était composée de :
 
